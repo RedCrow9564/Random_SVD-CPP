@@ -1,0 +1,5 @@
+ [requires]
+ blaze/3.8
+ 
+ [generators]
+ cmake
